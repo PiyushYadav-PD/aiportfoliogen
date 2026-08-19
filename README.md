@@ -18,4 +18,10 @@ A simple web app that takes your resume (PDF or Image or txt) and uses **Google 
 2. Open your terminal in this folder and install the libraries:
    ```bash
    pip install -r requirements.txt
+###3. Run the App
+Start the server:
+Open your browser and go to: http://127.0.0.1:5000
 Note: This project is for local use. 
+   ```bash
+   python app.py
+
