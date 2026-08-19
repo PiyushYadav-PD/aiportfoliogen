@@ -18,3 +18,4 @@ A simple web app that takes your resume (PDF or Image or txt) and uses **Google 
 2. Open your terminal in this folder and install the libraries:
    ```bash
    pip install -r requirements.txt
+Note: This project is for local use. 
